@@ -63,7 +63,9 @@ USDC is the actual currency being sent - not a wrapped asset or an intermediary 
 ## User Flow & Screens
 
 1. Freelancer opens ArcLink → **Create Payment Link**
-![Landing Page](./design/01-landing_page.png)
+<p align="center">
+  <img src="./design/01-landing_page.png" width="500"/>
+</p>
 
 2. Enters amount, description, and client details
 The freelancer generates a payment link with custom client metadata and sets the toggle preferences.
