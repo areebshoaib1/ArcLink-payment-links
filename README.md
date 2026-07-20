@@ -2,7 +2,7 @@
 
 **Instant USDC payment links - built on Arc.**
 
-> A stablecoin-native Stripe alternative for freelancers in emerging markets.
+> Inspired by Circle's Arc ecosystem and vision for stablecoin-powered payments.
 
 Get paid in seconds, not days. No banks, no wires, no 8% fees eating your income.
 
