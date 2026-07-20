@@ -12,7 +12,7 @@ Get paid in seconds, not days. No banks, no wires, no 8% fees eating your income
 
 [View the ArcLink Figma Prototype](https://www.figma.com/proto/2HZnPlq6D3c5pZUTxW88af/ArcLink---Home?node-id=16-2789&p=f&t=mT3wB5L0rdkF5bKb-0&scaling=min-zoom&content-scaling=fixed&page-id=16%3A103&starting-point-node-id=16%3A2789)
 
-[Watch the 45-second demo video](https://www.loom.com/share/f2737a72fa4e46bca04f28217bd60b52) 
+[Watch demo video](https://www.loom.com/share/6e1d4ef42ffa44e3ab34317d2b646f35) 
 
 ---
 
