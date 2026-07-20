@@ -64,24 +64,34 @@ USDC is the actual currency being sent - not a wrapped asset or an intermediary 
 
 1. Freelancer opens ArcLink → **Create Payment Link**
 <p align="center">
-  <img src="./design/01-landing_page.png" width="500"/>
+  <img src="./design/01-landing_page.png" width="400"/>
 </p>
 
 2. Enters amount, description, and client details
 The freelancer generates a payment link with custom client metadata and sets the toggle preferences.
-![Create Payment Link](./design/02-create_payment_link.png)
+<p align="center">
+  <img src="./design/02-create_payment_link.png" width="400"/>
+</p>
 
 3. Shares the generated link / QR code with the client
-![Client Checkout](./design/03-client_checkout.png)
+<p align="center">
+  <img src="./design/03-client_checkout.png" width="400"/>
+</p>
 
 4. Client opens the link → connects a wallet → pays in USDC
-![Wallet Connected](./design/03B-wallet_connected.png)
+<p align="center">
+  <img src="./design/03B-wallet_connected.png" width="400"/>
+</p>
 
 5. Payment settles on Arc → freelancer's dashboard updates to **Paid**
-![Dashboard](./design/04-dashboard.png)
+<p align="center">
+  <img src="./design/04-dashboard.png" width="400"/>
+</p>
 
 6. Both sides get a receipt with the full transaction record
-![Receipt](./design/05-receipt.png)
+<p align="center">
+  <img src="./design/05-receipt.png" width="400"/>
+</p>
 
 ## Built With
 
